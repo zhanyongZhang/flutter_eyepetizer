@@ -4,6 +4,9 @@
 ## 免责申明
 > 本项目仅供学习参考，请勿用于任何商业、非法用途。由此带来的法律责任，本人概不承担！
 
+## apk下载体验
+[百度云下载地址](https://pan.baidu.com/s/15T13BzbwG_NI8pbaVISoDA) 提取码：3ev2
+
 ## 其他开源项目
 
 * [Dart-Cms](https://github.com/abcd498936590/Dart-Cms)  =>> Dart-Cms完整项目
